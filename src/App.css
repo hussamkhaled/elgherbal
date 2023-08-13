@@ -1,0 +1,23 @@
+body{
+    background-color: #FAFAFA;
+}
+@font-face {
+    font-family: "Bold";   
+    src: local("CairoBold"),
+      url("./assets/font/Cairo-Bold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Regular";   
+    src: local("CairoRegular"),
+      url("./assets/font/Cairo-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Medium";   
+    src: local("CairoMedium"),
+      url("./assets/font/Cairo-Medium.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "SemiBold";   
+    src: local("CairoSemiBold"),
+      url("./assets/font/Cairo-SemiBold.ttf") format("truetype");
+  }
